@@ -1,0 +1,4 @@
+torch==1.3.1+cpu torchvision==0.4.2+cpu -f https://download.pytorch.org/whl/torch_stable.html
+opencv-python
+pillow
+numpy
