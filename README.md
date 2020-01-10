@@ -8,7 +8,7 @@ This repo contains the process of getting started with Facebook FAIR's detectron
 
 ## Configuration and Installation steps
 
-First install Detectro2 on your local machine and to install Detectron2 you need to have Pytorch and Torchvision installed along with Pycocotools.
+First install Detectron2 on your local machine and to install Detectron2 you need to have Pytorch and Torchvision installed along with Pycocotools.
 
 To install Pycocotools On Windows, you must have the Visual C++ 2015 build tools on your path. If you don't, make sure to install them from [here](https://go.microsoft.com/fwlink/?LinkId=691126):
 
