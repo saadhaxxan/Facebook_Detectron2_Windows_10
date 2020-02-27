@@ -8,7 +8,7 @@ This repo contains the process of getting started with Facebook FAIR's detectron
 
 ## Configuration and Installation steps
 
-First install Detectron2 on your local machine and to install Detectron2 you need to have Pytorch and Torchvision installed along with Pycocotools.
+To install Detectron2 you need to have Pytorch and Torchvision installed along with Pycocotools.
 
 To install Pycocotools On Windows, you must have the Visual C++ 2015 build tools on your path. If you don't, make sure to install them from [here](https://go.microsoft.com/fwlink/?LinkId=691126):
 
@@ -38,7 +38,7 @@ git clone https://github.com/facebookresearch/detectron2.git
 cd detectron2
 python setup.py build develop
 ```
-After doing that all you need pretrained models and pretrained weights.
+After doing that all you need are pretrained models and pretrained weights.
 
 You can get pre trained Mask RCNN model from [here](https://mega.nz/#!0nhxGKSA!GUOEjejGvy5sU5MZa8TFZUY0r4VT5al4Y_q0jZSiXW0) and pre trained weights from [here](https://mega.nz/#!cnZkQazC!Qp25xoks1OShLnXk_kIA6oniJ3q_yj7NYCU4fnZGRBs)
 Place these models and weights in the working directory of the python script.
