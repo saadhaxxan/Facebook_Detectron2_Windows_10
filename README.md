@@ -27,9 +27,8 @@ pip install -r requirement.txt
 
 To build the Detectron2 you need fvcore 
 ```
-git clone https://github.com/facebookresearch/fvcore
-cd fvcore
-python setup.py install 
+git clone https://github.com/facebookresearch/detectron2.git
+cd detectron2 && pip install -e .
 ```
 When all the requirements are installed clone the official repository of Detectron2 project from [here](https://github.com/facebookresearch/detectron2)
 or you can clone it by the process given below
