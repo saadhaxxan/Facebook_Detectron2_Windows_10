@@ -1,4 +1,4 @@
-<h1 align="center">Facebook's Detectron2 Demo Windows 10</h1>
+<h1 align="center">Facebook's Detectron2 Windows 10 Demo</h1>
 This repo contains the process of getting started with Facebook FAIR's detectron2 project on windows 10 without any Nvidia GPU.
 <a href="#">
   <div align="center">
